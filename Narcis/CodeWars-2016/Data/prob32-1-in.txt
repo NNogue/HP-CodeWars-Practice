@@ -1,0 +1,22 @@
+25.0
+2.0
+6
+Eureka
+Sacramento
+SF
+SantaFe
+Fresno
+LA
+8
+Eureka Sacramento US-101 288.0 0.0
+Eureka SF US-101 271.0 20.0
+Sacramento SantaFe I-40 1142.0 0.0
+SF LA I-5 381.0 50.0
+SF SantaFe I-40 1146.0 0.0
+SF Fresno CA-99 187.0 0.0
+Fresno LA CA-99 220.0 0.0
+LA SantaFe I-40 874.0 0.0
+3
+Eureka LA
+Eureka SF
+Fresno SantaFe
